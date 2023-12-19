@@ -1,0 +1,14 @@
+C:\Users\Dmitry\Desktop\pract\task6\bin\Debug\net8.0\task6.exe
+C:\Users\Dmitry\Desktop\pract\task6\bin\Debug\net8.0\task6.deps.json
+C:\Users\Dmitry\Desktop\pract\task6\bin\Debug\net8.0\task6.runtimeconfig.json
+C:\Users\Dmitry\Desktop\pract\task6\bin\Debug\net8.0\task6.dll
+C:\Users\Dmitry\Desktop\pract\task6\bin\Debug\net8.0\task6.pdb
+C:\Users\Dmitry\Desktop\pract\task6\obj\Debug\net8.0\task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry\Desktop\pract\task6\obj\Debug\net8.0\task6.AssemblyInfoInputs.cache
+C:\Users\Dmitry\Desktop\pract\task6\obj\Debug\net8.0\task6.AssemblyInfo.cs
+C:\Users\Dmitry\Desktop\pract\task6\obj\Debug\net8.0\task6.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\pract\task6\obj\Debug\net8.0\task6.dll
+C:\Users\Dmitry\Desktop\pract\task6\obj\Debug\net8.0\refint\task6.dll
+C:\Users\Dmitry\Desktop\pract\task6\obj\Debug\net8.0\task6.pdb
+C:\Users\Dmitry\Desktop\pract\task6\obj\Debug\net8.0\task6.genruntimeconfig.cache
+C:\Users\Dmitry\Desktop\pract\task6\obj\Debug\net8.0\ref\task6.dll

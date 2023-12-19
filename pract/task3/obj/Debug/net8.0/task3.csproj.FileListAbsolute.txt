@@ -1,0 +1,14 @@
+C:\Users\Dmitry\Desktop\pract\task3\bin\Debug\net8.0\task3.exe
+C:\Users\Dmitry\Desktop\pract\task3\bin\Debug\net8.0\task3.deps.json
+C:\Users\Dmitry\Desktop\pract\task3\bin\Debug\net8.0\task3.runtimeconfig.json
+C:\Users\Dmitry\Desktop\pract\task3\bin\Debug\net8.0\task3.dll
+C:\Users\Dmitry\Desktop\pract\task3\bin\Debug\net8.0\task3.pdb
+C:\Users\Dmitry\Desktop\pract\task3\obj\Debug\net8.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry\Desktop\pract\task3\obj\Debug\net8.0\task3.AssemblyInfoInputs.cache
+C:\Users\Dmitry\Desktop\pract\task3\obj\Debug\net8.0\task3.AssemblyInfo.cs
+C:\Users\Dmitry\Desktop\pract\task3\obj\Debug\net8.0\task3.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\pract\task3\obj\Debug\net8.0\task3.dll
+C:\Users\Dmitry\Desktop\pract\task3\obj\Debug\net8.0\refint\task3.dll
+C:\Users\Dmitry\Desktop\pract\task3\obj\Debug\net8.0\task3.pdb
+C:\Users\Dmitry\Desktop\pract\task3\obj\Debug\net8.0\task3.genruntimeconfig.cache
+C:\Users\Dmitry\Desktop\pract\task3\obj\Debug\net8.0\ref\task3.dll
